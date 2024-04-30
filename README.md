@@ -1,11 +1,8 @@
-# Hello, Zuko here! :fire:
-<div align="center">
-  <img src="https://github.com/calltekk/calltekk/assets/112567796/5d029888-f2b1-4e02-8951-cb89b35e3124" width="900" />
-</div>
+# Welcome
 
 ## Intro
 
-🚀 Just kidding! I'm Callum, a passionate Frontend Developer and Product Designer on a mission to craft captivating digital experiences that blend seamless functionality with stunning aesthetics.
+🚀 I'm Callum, a passionate Frontend Developer and Product Designer on a mission to craft captivating digital experiences that blend seamless functionality with stunning aesthetics.
 
 🎨 With a keen eye for design and a knack for translating ideas into pixel-perfect interfaces, I thrive in the dynamic world where creativity meets code. Whether it's building responsive web applications or refining user experiences, I'm committed to pushing the boundaries of innovation.
 
