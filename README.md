@@ -1,6 +1,6 @@
 # Hi, I'm Callum 👋  
 
-Data Engineer focused on building scalable, reliable data platforms and analytics stacks.  
+Data Engineer from a Software background focused on building scalable, reliable data platforms and analytics stacks.  
 I mainly work with Python & TypeScript across modern data, cloud, and BI ecosystems.
 
 ---
