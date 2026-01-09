@@ -33,9 +33,9 @@ I mainly work with Python & TypeScript across modern data, cloud, and BI ecosyst
 
 ## 📊 GitHub Stats
 
-![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=calltekk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calltekk&layout=compact&theme=tokyonight)
 
 ---
 
