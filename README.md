@@ -33,10 +33,10 @@ I mainly work with Python & TypeScript across modern data, cloud, and BI ecosyst
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=calltekk&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight)
+![Stats](https://gh-stats-alpha.vercel.app/api?username=calltekk&show_icons=true&rank_icon=github&theme=tokyonight)
 
+![Top Languages](https://gh-stats-alpha.vercel.app/api/top-langs/?username=calltekk&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calltekk&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
 
 
 ---
