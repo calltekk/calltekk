@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 6 * * *"   # runs every day at 06:00 UTC
+  workflow_dispatch:       # lets you run it manually too
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: calltekk
+          template: classic
+          base: header, activity, repositories
+          filename: github-metrics.svg
