@@ -1,10 +1,4 @@
-# Callum
-
-Data engineer working across distributed systems, analytics, and data platforms.
-
----
-
-## Core
+# Core
 
 - Batch, streaming, and hybrid pipelines (high TB scale)  
 - End-to-end platforms: ingestion → modelling → serving → BI  
