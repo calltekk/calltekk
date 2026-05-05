@@ -1,57 +1,76 @@
-# Hi, I'm Callum 👋  
+# Callum
 
-Data Engineer from a Software background focused on building scalable, reliable data platforms and analytics stacks.  
-I mainly work with Python & TypeScript across modern data, cloud, and BI ecosystems.
-
----
-
-## 🧰 Tech Stack
-
-**Languages & Frontend**
-  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
-**Data & Analytics**
-  
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik-009848)
-
-**Cloud & Platform**
-  
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B4EFF)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+Data engineer working across distributed systems, analytics, and data platforms.
 
 ---
 
-## 📊 GitHub Stats
+## Core
 
-![Metrics](https://raw.githubusercontent.com/YOUR_USERNAME/calltekk/main/github-metrics.svg)
-
-
-
-
----
-
-## 🧪 Projects & Experiments
-
-- 🌦 **Weatherly** — Flutter weather app (cross-platform UI experiments)  
-- ⚙️ Data engineering pipelines in Spark, dbt, and Fabric  
-- 📊 BI + analytics tooling (Qlik, metrics layers, dashboards)  
-- 🐍 Python utilities for data workflows
+- Batch, streaming, and hybrid pipelines (high TB scale)  
+- End-to-end platforms: ingestion → modelling → serving → BI  
+- Focus on reliability, performance, and systems that stay maintainable  
 
 ---
 
-## 🔍 What I'm interested in
+## Data / Processing
 
-- Lakehouse & modern data platforms
-- Analytics engineering & semantic layers
-- Cloud-native data stacks
-- Platform automation & developer experience
+Python · Spark · dbt · Snowflake  
+Delta · Iceberg · Parquet · ORC  
+Hadoop  
+
+---
+
+## Streaming
+
+Kafka · Event Hubs · Flink · MQTT  
+
+---
+
+## Databases
+
+Postgres · MySQL · SQL Server · NoSQL  
+
+---
+
+## Orchestration
+
+Airflow · Dagster · Mage · Data Factory  
+
+---
+
+## Cloud / Platform
+
+Azure · AWS · GCP  
+Docker · Kubernetes  
+
+---
+
+## Infrastructure
+
+Terraform · Bicep · ARM  
+
+---
+
+## Analytics / BI
+
+Qlik Sense · QlikView · Power BI · Tableau  
+dbt Metrics · Snowflake Semantic Views · Cube  
+Microsoft Fabric  
+
+---
+
+## Engineering
+
+CI/CD — GitHub Actions · Azure DevOps  
+Data Quality — dbt tests · Great Expectations  
+Observability — Monte Carlo · Soda  
+Testing — Pytest  
+
+---
+
+## Background
+
+Software engineering → data  
+Python · TypeScript · JavaScript · .NET (ASP.NET Core)  
+Some Java · Ruby on Rails · Flutter  
+HTML / CSS  
